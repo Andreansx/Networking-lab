@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0" version="28.1.2">
   <diagram name="Page-1" id="rQy6d27if6iHu_IivxI7">
-    <mxGraphModel dx="377" dy="241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="776" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tMoakFeit9SiMq9z2GzQ-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=light-dark(#000000,#3333FF);" parent="1" vertex="1">
-          <mxGeometry x="330" y="486.09" width="180" height="97.82" as="geometry" />
+          <mxGeometry x="120.00000000000001" y="120" width="180" height="97.82" as="geometry" />
         </mxCell>
         <mxCell id="xGvmMnfeks0QjRUXeaIw-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=light-dark(#000000,#99004D);" parent="1" vertex="1">
           <mxGeometry x="430" y="310" width="190" height="60" as="geometry" />
@@ -146,22 +146,22 @@
           <mxGeometry x="650" y="290" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tMoakFeit9SiMq9z2GzQ-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0E8088,#1A1A1A);strokeColor=light-dark(#000000,#333333);strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="360" y="515" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="148.91000000000003" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tMoakFeit9SiMq9z2GzQ-16" value="&lt;pre&gt;ToR-s4048&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="388.18" y="545" width="63.64" height="10" as="geometry" />
+          <mxGeometry x="178.18" y="178.91000000000003" width="63.64" height="10" as="geometry" />
         </mxCell>
         <mxCell id="tMoakFeit9SiMq9z2GzQ-17" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dell_EMC_logo.svg/2560px-Dell_EMC_logo.svg.png;" parent="1" vertex="1">
-          <mxGeometry x="391.11" y="535" width="57.78" height="10" as="geometry" />
+          <mxGeometry x="181.11" y="168.91000000000003" width="57.78" height="10" as="geometry" />
         </mxCell>
         <mxCell id="tMoakFeit9SiMq9z2GzQ-19" value="&lt;pre&gt;AS65002&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#3333FF);" parent="1" vertex="1">
-          <mxGeometry x="395" y="486.09000000000015" width="50" height="20" as="geometry" />
+          <mxGeometry x="185" y="120.00000000000017" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7Xll-mRWiraD3zJkEUHw-2" value="&lt;pre&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;svi 100&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0E8088,#1A1A1A);strokeColor=light-dark(#000000,#333333);strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="352" y="290" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7Xll-mRWiraD3zJkEUHw-3" value="&lt;pre&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;svi 100&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0E8088,#1A1A1A);strokeColor=light-dark(#000000,#333333);strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="230" y="150" width="50" height="20" as="geometry" />
+          <mxGeometry x="302" y="158.91" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7Xll-mRWiraD3zJkEUHw-4" value="&lt;pre&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;svi 104&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0E8088,#1A1A1A);strokeColor=light-dark(#000000,#333333);strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="435" y="290" width="50" height="20" as="geometry" />
@@ -191,6 +191,15 @@
         </mxCell>
         <mxCell id="7Xll-mRWiraD3zJkEUHw-8" value="&lt;pre&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;svi 104&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0E8088,#1A1A1A);strokeColor=light-dark(#000000,#333333);strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="435" y="368.90999999999997" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7Xll-mRWiraD3zJkEUHw-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=light-dark(#000000,#C73E13);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="490" as="sourcePoint" />
+            <mxPoint x="780" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Xll-mRWiraD3zJkEUHw-10" value="Proxmox Virtual Environment on Dell R710" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="302" y="490" width="290" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
